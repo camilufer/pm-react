@@ -4,7 +4,7 @@ import CircularProgress from 'material-ui/CircularProgress';
 import Location from './Location';
 import WeatherData from './WeatherData';
 import transformWeather from './../../services/transformWeather';
-// import './styles.css';
+import './style.css';
 
 //Creando const para llamar api
 const api_key = "631deffc7b3dc563f3a19aea3aa586d2";
